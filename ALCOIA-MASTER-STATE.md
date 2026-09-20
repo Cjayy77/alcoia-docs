@@ -3,7 +3,7 @@
 **Add to:** both repo roots, or a third private `alcoia-docs` repo if you want one canonical copy.
 Whichever you choose, only one copy should be edited — a document like this drifting into two
 different versions is worse than not having it.
-
+ 
 **Purpose.** One place that says what exists, across every dev setup, in language a new person —
 or a future you — can follow without having sat in on the decisions. Concepts are explained, not
 assumed. Status is verified against the actual repos, not remembered.
